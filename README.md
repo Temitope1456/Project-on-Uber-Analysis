@@ -35,8 +35,7 @@ Uber data analysis involues vast sets of rides and passenger Preferences to opti
 - Load the data
 - Data Processing/Cleaning
 - Summary Statistics
-- Exploratory Data Analysis (EDA)
-- Key Findings and 
+- Findings and 
 - Data Visualization and interpretation
 - Recommendations and Conclusions
 - Limitations.
